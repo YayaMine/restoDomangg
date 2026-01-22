@@ -121,7 +121,7 @@ export default function Hero() {
               </div>
               <div className="relative h-[500px]">
                 <Image
-                  src="/fajar.jpg"
+                  src="/salmon-nigiri.png"
                   alt="Sushi 3"
                   fill
                   className="object-cover rounded-lg"
